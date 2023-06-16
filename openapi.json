@@ -232,7 +232,7 @@
             }
           },
           "404": {
-            "description": "OK",
+            "description": "userId not found",
             "content": {
               "application/json": {
                 "schema": {
