@@ -1,0 +1,504 @@
+[{
+  "_id": {
+    "$oid": "648c017bbc6ad171511bbdd5"
+  },
+  "email": "rifqi1@gmail.com",
+  "password": "$2b$10$Lw4XHOJvlu7aVyC/QrIaTeZztbr7f1dHvxyCX0ZEVWGukaPc5HDYO",
+  "name": "Rifqi Yusril Muslikhin",
+  "address": "jalan raya randegan",
+  "cityId": {
+    "$oid": "648b0b531d8ee54fc19acd21"
+  },
+  "hobbies": [
+    "Reading",
+    "Swimming"
+  ],
+  "last_login": null,
+  "created_at": {
+    "$date": "2023-06-16T06:30:19.490Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-16T06:30:19.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c0182bc6ad171511bbdd8"
+  },
+  "email": "rifqi2@gmail.com",
+  "password": "$2b$10$z3G6KxSV.LKqYdeb4vB2E.lt2fLMdz8dvfmaMDDIHL9Wr.I7Qdkfi",
+  "name": "Rifqi Yusril Muslikhin",
+  "address": "jalan raya randegan",
+  "cityId": {
+    "$oid": "648b0b531d8ee54fc19acd21"
+  },
+  "hobbies": [
+    "Reading",
+    "Swimming"
+  ],
+  "last_login": null,
+  "created_at": {
+    "$date": "2023-06-16T06:30:26.475Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-16T06:30:26.475Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c0187bc6ad171511bbddb"
+  },
+  "email": "rifqi3@gmail.com",
+  "password": "$2b$10$Eae5dKqKX8LahrYFw2/xn.tI1ZBL8/M5Hb.ocsmap9sK3l5de0ZyW",
+  "name": "Rifqi Yusril Muslikhin",
+  "address": "jalan raya randegan",
+  "cityId": {
+    "$oid": "648b0b531d8ee54fc19acd21"
+  },
+  "hobbies": [
+    "Reading",
+    "Swimming"
+  ],
+  "last_login": null,
+  "created_at": {
+    "$date": "2023-06-16T06:30:31.993Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-16T06:30:31.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c018dbc6ad171511bbdde"
+  },
+  "email": "rifqi4@gmail.com",
+  "password": "$2b$10$aGigU7R1jA4R5zByvGef8OrJzTODQRPbevqLA3m.fBwhBAJvE0FZO",
+  "name": "Rifqi Yusril Muslikhin",
+  "address": "jalan raya randegan",
+  "cityId": {
+    "$oid": "648b0b531d8ee54fc19acd21"
+  },
+  "hobbies": [
+    "Reading",
+    "Swimming"
+  ],
+  "last_login": null,
+  "created_at": {
+    "$date": "2023-06-16T06:30:37.769Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-16T06:30:37.769Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c0191bc6ad171511bbde1"
+  },
+  "email": "rifqi5@gmail.com",
+  "password": "$2b$10$H.G4vXTsJtOVbxDMneMf7unmjT0CfS6M954afKYQv1sQVD5M5p.Ci",
+  "name": "Rifqi Yusril Muslikhin",
+  "address": "jalan raya randegan",
+  "cityId": {
+    "$oid": "648b0b531d8ee54fc19acd21"
+  },
+  "hobbies": [
+    "Reading",
+    "Swimming"
+  ],
+  "last_login": null,
+  "created_at": {
+    "$date": "2023-06-16T06:30:41.329Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-16T06:30:41.329Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c0197bc6ad171511bbde4"
+  },
+  "email": "rifqi6@gmail.com",
+  "password": "$2b$10$ZXYyAjFD0UGB.CwDUe.rHuBK7AgPWTOu9R52vMTJjsvMEFtCa7vjW",
+  "name": "Rifqi Yusril Muslikhin",
+  "address": "jalan raya randegan",
+  "cityId": {
+    "$oid": "648b0b531d8ee54fc19acd21"
+  },
+  "hobbies": [
+    "Reading",
+    "Swimming"
+  ],
+  "last_login": null,
+  "created_at": {
+    "$date": "2023-06-16T06:30:47.086Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-16T06:30:47.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c019abc6ad171511bbde7"
+  },
+  "email": "rifqi7@gmail.com",
+  "password": "$2b$10$FNWQUjL59prpPwvnDRBrQ.CtBKcUQn.H.19v7MIJvV7D7AOBBdhi6",
+  "name": "Rifqi Yusril Muslikhin",
+  "address": "jalan raya randegan",
+  "cityId": {
+    "$oid": "648b0b531d8ee54fc19acd21"
+  },
+  "hobbies": [
+    "Reading",
+    "Swimming"
+  ],
+  "last_login": null,
+  "created_at": {
+    "$date": "2023-06-16T06:30:50.791Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-16T06:30:50.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c019ebc6ad171511bbdea"
+  },
+  "email": "rifqi8@gmail.com",
+  "password": "$2b$10$qfZV2D6KDoq5bKmnnpu.I.x3xOnbaNiDpamD9fR5WYawMhgr9rZxu",
+  "name": "Rifqi Yusril Muslikhin",
+  "address": "jalan raya randegan",
+  "cityId": {
+    "$oid": "648b0b531d8ee54fc19acd21"
+  },
+  "hobbies": [
+    "Reading",
+    "Swimming"
+  ],
+  "last_login": null,
+  "created_at": {
+    "$date": "2023-06-16T06:30:54.968Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-16T06:30:54.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c01a3bc6ad171511bbded"
+  },
+  "email": "rifqi9@gmail.com",
+  "password": "$2b$10$je6KOP9EwxwxCHWXhDWBh.3YziN.ur3n8Esz9LnSP/EIFtOGTBm1O",
+  "name": "Rifqi Yusril Muslikhin",
+  "address": "jalan raya randegan",
+  "cityId": {
+    "$oid": "648b0b531d8ee54fc19acd21"
+  },
+  "hobbies": [
+    "Reading",
+    "Swimming"
+  ],
+  "last_login": null,
+  "created_at": {
+    "$date": "2023-06-16T06:30:59.499Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-16T06:30:59.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c01a7bc6ad171511bbdf0"
+  },
+  "email": "rifqi10@gmail.com",
+  "password": "$2b$10$y3JIzbHo39PeEvZ33x/UQ.5NXMCXKfVSG0QUcERK9WXwPWVP676R6",
+  "name": "Rifqi Yusril Muslikhin",
+  "address": "jalan raya randegan",
+  "cityId": {
+    "$oid": "648b0b531d8ee54fc19acd21"
+  },
+  "hobbies": [
+    "Reading",
+    "Swimming"
+  ],
+  "last_login": null,
+  "created_at": {
+    "$date": "2023-06-16T06:31:03.767Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-16T06:31:03.767Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c01abbc6ad171511bbdf3"
+  },
+  "email": "rifqi11@gmail.com",
+  "password": "$2b$10$5nDLh7kV9HXWm3zLJ/tiMegZLNrIEBGb1wQJsxeNEDjHfM0LaOr/O",
+  "name": "Rifqi Yusril Muslikhin",
+  "address": "jalan raya randegan",
+  "cityId": {
+    "$oid": "648b0b531d8ee54fc19acd21"
+  },
+  "hobbies": [
+    "Reading",
+    "Swimming"
+  ],
+  "last_login": null,
+  "created_at": {
+    "$date": "2023-06-16T06:31:07.550Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-16T06:31:07.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c01afbc6ad171511bbdf6"
+  },
+  "email": "rifqi12@gmail.com",
+  "password": "$2b$10$NY62OIISinYDGzhyWPir6ev7VfeFiJTMnUzdAmjfz5jc1X078.TP2",
+  "name": "Rifqi Yusril Muslikhin",
+  "address": "jalan raya randegan",
+  "cityId": {
+    "$oid": "648b0b531d8ee54fc19acd21"
+  },
+  "hobbies": [
+    "Reading",
+    "Swimming"
+  ],
+  "last_login": null,
+  "created_at": {
+    "$date": "2023-06-16T06:31:11.683Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-16T06:31:11.683Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c01b4bc6ad171511bbdf9"
+  },
+  "email": "rifqi13@gmail.com",
+  "password": "$2b$10$3x0sLwmohi3eETIazkuQvOygZxMpnEURNR1DdTx1SdvH/FQQLU2BS",
+  "name": "Rifqi Yusril Muslikhin",
+  "address": "jalan raya randegan",
+  "cityId": {
+    "$oid": "648b0b531d8ee54fc19acd21"
+  },
+  "hobbies": [
+    "Reading",
+    "Swimming"
+  ],
+  "last_login": null,
+  "created_at": {
+    "$date": "2023-06-16T06:31:16.734Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-16T06:31:16.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c01b8bc6ad171511bbdfc"
+  },
+  "email": "rifqi14@gmail.com",
+  "password": "$2b$10$.fQ2lbNxPgYvjluLBF9Na.bWkjywP6WP3F.KpkM3XayEqw/pfZ4a2",
+  "name": "Rifqi Yusril Muslikhin",
+  "address": "jalan raya randegan",
+  "cityId": {
+    "$oid": "648b0b531d8ee54fc19acd21"
+  },
+  "hobbies": [
+    "Reading",
+    "Swimming"
+  ],
+  "last_login": null,
+  "created_at": {
+    "$date": "2023-06-16T06:31:20.790Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-16T06:31:20.790Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c01bcbc6ad171511bbdff"
+  },
+  "email": "rifqi15@gmail.com",
+  "password": "$2b$10$9C0i.aRdwPo6/Q7paJACceKoDTTo4gkPgTn8zrosUF5bFNKB/kaNW",
+  "name": "Rifqi Yusril Muslikhin",
+  "address": "jalan raya randegan",
+  "cityId": {
+    "$oid": "648b0b531d8ee54fc19acd21"
+  },
+  "hobbies": [
+    "Reading",
+    "Swimming"
+  ],
+  "last_login": null,
+  "created_at": {
+    "$date": "2023-06-16T06:31:24.631Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-16T06:31:24.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c01c0bc6ad171511bbe02"
+  },
+  "email": "rifqi16@gmail.com",
+  "password": "$2b$10$ZZz7xgjHXX5I7LpwUopJp.ZxEQkJzmBAKWeeFu0VsHWwkJr2zG9tG",
+  "name": "Rifqi Yusril Muslikhin",
+  "address": "jalan raya randegan",
+  "cityId": {
+    "$oid": "648b0b531d8ee54fc19acd21"
+  },
+  "hobbies": [
+    "Reading",
+    "Swimming"
+  ],
+  "last_login": null,
+  "created_at": {
+    "$date": "2023-06-16T06:31:28.861Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-16T06:31:28.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c01c4bc6ad171511bbe05"
+  },
+  "email": "rifqi17@gmail.com",
+  "password": "$2b$10$vSRZU2OsOhNHfhdSkB9E0O7zTNLgNpG4fmLrYqwwq51mbOtWRZw.m",
+  "name": "Rifqi Yusril Muslikhin",
+  "address": "jalan raya randegan",
+  "cityId": {
+    "$oid": "648b0b531d8ee54fc19acd21"
+  },
+  "hobbies": [
+    "Reading",
+    "Swimming"
+  ],
+  "last_login": null,
+  "created_at": {
+    "$date": "2023-06-16T06:31:32.762Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-16T06:31:32.762Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c01c8bc6ad171511bbe08"
+  },
+  "email": "rifqi18@gmail.com",
+  "password": "$2b$10$bx3Ls2c4RVa/bSYgGJr9veWuD0mY7T8w1M3L5MycVq1UII2JGFMrO",
+  "name": "Rifqi Yusril Muslikhin",
+  "address": "jalan raya randegan",
+  "cityId": {
+    "$oid": "648b0b531d8ee54fc19acd21"
+  },
+  "hobbies": [
+    "Reading",
+    "Swimming"
+  ],
+  "last_login": null,
+  "created_at": {
+    "$date": "2023-06-16T06:31:36.715Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-16T06:31:36.715Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c01ccbc6ad171511bbe0b"
+  },
+  "email": "rifqi19@gmail.com",
+  "password": "$2b$10$ztVS8EjBLdsAVCCuEn1Bh.xrV6YWYZdPvOGR3IVYgagcg.UYBvlW2",
+  "name": "Rifqi Yusril Muslikhin",
+  "address": "jalan raya randegan",
+  "cityId": {
+    "$oid": "648b0b531d8ee54fc19acd21"
+  },
+  "hobbies": [
+    "Reading",
+    "Swimming"
+  ],
+  "last_login": null,
+  "created_at": {
+    "$date": "2023-06-16T06:31:40.503Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-16T06:31:40.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c01d1bc6ad171511bbe0e"
+  },
+  "email": "rifqi20@gmail.com",
+  "password": "$2b$10$y575wyruyx81.TYubb6OB.f.ndyypVSGZXHAlP3ecO3GFNOw9sVvm",
+  "name": "Rifqi Yusril Muslikhin",
+  "address": "jalan raya randegan",
+  "cityId": {
+    "$oid": "648b0b531d8ee54fc19acd21"
+  },
+  "hobbies": [
+    "Reading",
+    "Swimming"
+  ],
+  "last_login": null,
+  "created_at": {
+    "$date": "2023-06-16T06:31:45.007Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-16T06:31:45.007Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c01d4bc6ad171511bbe11"
+  },
+  "email": "rifqi21@gmail.com",
+  "password": "$2b$10$.zlgaPXFX.sPpYJjB2CwwOpflVoNb7jm9vWTxyks4VQrD.Iu/ckny",
+  "name": "Rifqi Yusril Muslikhin",
+  "address": "jalan raya randegan",
+  "cityId": {
+    "$oid": "648b0b531d8ee54fc19acd21"
+  },
+  "hobbies": [
+    "Reading",
+    "Swimming"
+  ],
+  "last_login": null,
+  "created_at": {
+    "$date": "2023-06-16T06:31:48.391Z"
+  },
+  "updated_at": {
+    "$date": "2023-06-16T06:31:48.391Z"
+  },
+  "__v": 0
+}]

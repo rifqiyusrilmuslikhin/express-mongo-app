@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "648b082ba52475ab288919c4"
+  },
+  "name": "Sidoarjo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648b0b531d8ee54fc19acd21"
+  },
+  "name": "Surabaya",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648b0b531d8ee54fc19acd24"
+  },
+  "name": "Malang",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648b0b531d8ee54fc19acd27"
+  },
+  "name": "Gresik",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648b0b531d8ee54fc19acd2a"
+  },
+  "name": "Mojokerto",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648b0b531d8ee54fc19acd2d"
+  },
+  "name": "Kediri",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648b0b531d8ee54fc19acd30"
+  },
+  "name": "Madiun",
+  "__v": 0
+}]
